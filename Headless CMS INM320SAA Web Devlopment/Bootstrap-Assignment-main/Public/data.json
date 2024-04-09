@@ -1,0 +1,15 @@
+{
+    "cards": [
+      {
+        "title": "Card 1",
+        "image": "https://via.placeholder.com/150",
+        "description": "Description for Card 1."
+      },
+      {
+        "title": "Card 2",
+        "image": "https://via.placeholder.com/150",
+        "description": "Description for Card 2."
+      }
+    ]
+  }
+  
